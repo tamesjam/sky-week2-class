@@ -12,7 +12,7 @@ public class Main {
         Weapon wp1 = new Weapon(500, 100, false, true, 100, "Slashing");
         Weapon wp2 = new Weapon(500, 100);
 
-        System.out.println("The wp1 damage type output is: " + wp1.getDamageType() +
-                "durability: " + );
+//        System.out.println("The wp1 damage type output is: " + wp1.getDamageType() +
+//                "durability: " + );
     }
 }
